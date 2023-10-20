@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 243, 139);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.neena {
+    box-shadow: 20px 20px 20px rgb(240, 154, 55);
+    padding: 12px 12px 12px;
+}
+
+.sus {
+    font-size: large;
+    shape-margin: 25%;
+    margin-right: 0%;
+    border: 12px 12px 12px white;
+    box-decoration-break: clone;
+}
